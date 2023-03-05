@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+dist/
+
+# Build files
+*.log
+npm-debug.log*
+coverage/
+.cache/
+.nyc_output/
+*.tsbuildinfo
+tsconfig.tsbuildinfo
+
+# Environment variables
+.env
+
+# VSCode
+.vscode/
+src/.DS_Store
+.DS_Store
